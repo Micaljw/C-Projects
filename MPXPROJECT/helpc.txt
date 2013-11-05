@@ -1,0 +1,112 @@
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block
+change_date
+display_date
+display_directory
+display_version
+terminate
+create_PCB (temp) 
+delete_PCB (temp) 
+block (temp)
+unblock (temp)
+suspend 
+resume
+set_pr
+show_PCB
+show_all
+show_rdy
+show_block

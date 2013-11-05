@@ -1,0 +1,16 @@
+change_date allows for the modification of the current system date in form mm/dd/yyyy
+display_date displays the current date
+display_directory displays information about MPX processes present in a specific directory
+display_version provides a brief description of the current MPX version running
+terminate stops the execution of MPX and returns to the host OS
+create_PCB (temp) allows for the setup of a new PCB
+delete_PCB (temp) terminates an existing PCB
+block (temp) places a specific process in a blocked state
+unblock (temp) places a specific process in a ready state
+suspend places a specific process in a suspended state
+resume places a specific process in a non-suspended state 
+set_pr changes the priority of a specified process
+show_PCB displays all information contained in a single PCB for a process specified by name
+show_all displays information about all PCB's that are currently in use
+show_rdy displays information aut all processes that are in the ready and suspended ready states
+show_block displays information about all processes currently in the blocked and suspended blocked states
